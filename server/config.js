@@ -3,7 +3,7 @@ module.exports = {
 
     // Game server domain.
     // If 'localhost:NUMBER', the port must equal the port setting.
-    host: "localhost:11266",
+    host: "apsonline.pro",
 
     // Which port to run the web server on.
     port: 11266,
